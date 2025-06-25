@@ -14,3 +14,6 @@ Visual feedback for win/loss
 Beginner-friendly design
 
 Tech Stack: Python, Tkinter, Random, String
+
+## 🎮 Hangman Game GUI Preview
+![Hangman Game](Hang_Man Game GUI.jpg)
