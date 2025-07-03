@@ -1,4 +1,4 @@
-# CodeAlpha_Hangman-Game-
+# Hangman-Game
 A classic word-guessing game developed using Python's tkinter library. The game randomly selects a word from a predefined list and displays it as blanks. The player guesses letters, and with each wrong guess, a visual "hangman" progresses. The player has a maximum of 6 incorrect attempts before the game ends.
 
 Key Features:
